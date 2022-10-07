@@ -4,6 +4,7 @@
 0X19-Stack LIFO, FILO project
 
 ## Author
+Iyk Faiz
 
 ## Descriptions
 
